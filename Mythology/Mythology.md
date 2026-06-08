@@ -1,4 +1,4 @@
-# Hindu Mythology: Week 1 Study Guide
+# Week 1 Guide - hindu mythology
 ## 1. Samudra Manthan
 - Complete chronology of the Samudra Manthan
 - Role of the Devas and Asuras
