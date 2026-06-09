@@ -4,7 +4,7 @@
 - Role of the Devas and Asuras
 - Mount Mandara as the churning rod
 - Vasuki as the churning rope
-- Vishnu's role, including the Kurma Avatar
+- Vishnu's role, including the Kurma Avatar and later as Mohini
 
 ### The Fourteen Ratnas (Treasures)
 Study the origin, symbolism, and later appearances of each:
@@ -30,6 +30,7 @@ Study the origin, symbolism, and later appearances of each:
 ## 2. Ramayana
 
 - Major versions and regional traditions
+- All the Kaands
 
 ### Important Characters
 - Rama
@@ -42,7 +43,7 @@ Study the origin, symbolism, and later appearances of each:
 - Vibhishana
 - Kumbhakarna
 - Indrajit (Meghanada)
-- Jatayu
+- Jatayu and Sampati
 
 ### Major Topics
 
@@ -51,7 +52,7 @@ Study the origin, symbolism, and later appearances of each:
 - Golden deer episode
 - Abduction of Sita
 - Hanuman's journey to Lanka
-- Ram Setu
+- Ram Setu (Nala & Neela)
 - Lanka war
 - Ravana's boons and weaknesses
 - Agni Pariksha
@@ -94,18 +95,20 @@ Study the origin, symbolism, and later appearances of each:
 
 ### High-Priority Lore
 
-- Abhimanyu and the Chakravyuha
-- Ashwatthama
+- Abhimanyu, Uttara and the Chakravyuha
+- Ashwatthama & Upapandavas
 - Ghatotkacha
 - Duryodhana hiding in the lake
+- Dussashana
+- Sanjay
 - Jayadratha
+- Jarasandha
 - Ekalavya
 - Barbarika
 - Parashurama and Karna
 - Babruvahana
 - Iravan
 - Other sons of Arjuna
-- Guru lineages and rivalries
 
 ### Discussion Topics
 
