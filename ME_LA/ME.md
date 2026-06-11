@@ -315,8 +315,8 @@
 ### Richard Linklater
 | Film | Year | Notes |
 |---|---|---|
-| *Dazed and Confused* | 1993 | 70s high school; ensemble |
-| *Before Trilogy* | 1995,2004,2013 | Hawke, Delpy; one-night romance |
+| *Dazed and Confused* | 1993 | |
+| *Before Trilogy* | 1995,2004,2013 |  |
 | *School of Rock* | 2003 |  |
 | *Boyhood* | 2014 | Oscar nominations |
 
